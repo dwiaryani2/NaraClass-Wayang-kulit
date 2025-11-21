@@ -1,4 +1,5 @@
 TUGAS AKHIR
+
 JUDUL: Klasifikasi Karakter Wayang Kulit Menggunakan Metode CNN untuk Digitalisasi Kebudayaan
 
 PENDAHULUAN: Ketertarikan penulis terhadap budaya, khususnya Wayang Kulit yang sayangnya mulai kurang diminati oleh generasi muda, mendorong penulis untuk menggabungkan dua hal: teknologi dan budaya. Tujuannya adalah agar karakter-karakter wayang kulit dapat diperkenalkan secara digital, menjadikannya media pembelajaran yang interaktif dan tetap relevan di zaman serbadigital ini.
