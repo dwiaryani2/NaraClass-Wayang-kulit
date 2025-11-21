@@ -25,10 +25,10 @@ st.markdown(hide_sidebar, unsafe_allow_html=True)
 # Redirect jika sudah upload
 if st.session_state.get("go_to_prediction"):
     st.session_state["go_to_prediction"] = False
-    st.switch_page(r"pages\klasifikasi.py")  
+    st.switch_page(r"pages\\klasifikasi.py")  
 
 # Logo
-logo = Image.open(r"assets\naraclass.png")
+logo = Image.open(r"assets\\naraclass.png")
 logo_base64 = image_to_base64(logo)
 st.markdown(
     f"""
